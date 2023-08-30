@@ -1,4 +1,4 @@
-module sugar
+module github.com/Allen9012/sugar
 
 go 1.20
 
